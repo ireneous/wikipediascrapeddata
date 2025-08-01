@@ -15,6 +15,9 @@ Libraries: requests, beautifulsoup4, and pandas
 You can install the required libraries with:
 
 pip install requests beautifulsoup4 pandas
+
+
+
 Data Source
 
 Wikipedia: (https://en.wikipedia.org/wiki/List_of_largest_companies_in_the_United_States_by_revenue)
